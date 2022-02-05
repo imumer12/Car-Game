@@ -1,0 +1,12 @@
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\bin\Debug\car game 1.exe.config
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\bin\Debug\car game 1.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\bin\Debug\car game 1.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\obj\Debug\car game 1.csprojAssemblyReference.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\obj\Debug\car_game_1.Form1.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\obj\Debug\car_game_1.Properties.Resources.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\obj\Debug\car game 1.csproj.GenerateResource.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\obj\Debug\car game 1.csproj.CoreCompileInputs.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\obj\Debug\car game 1.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\car game 1\car game 1\obj\Debug\car game 1.pdb
+D:\GitHub\Projects\car game 1\car game 1\obj\Debug\car game 1.exe
+D:\GitHub\Projects\car game 1\car game 1\obj\Debug\car game 1.pdb
